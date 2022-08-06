@@ -2,7 +2,7 @@
 
 ## 描述
 
-本项目基于CS:APP Tshlab，实现了一个小型的名为tsh的shell
+本项目基于CS:APP Tsh lab，实现了一个小型的名为tsh的shell
 
 ## 功能特性
 
