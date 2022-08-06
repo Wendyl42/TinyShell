@@ -1,9 +1,5 @@
 /* 
  * tsh - A tiny shell program with job control
- * 
- * Name: Yihua Liu
- * ID: 1800017857
- * 
  * This is a shell with basic functions. It can run programs
  * foreground or background, and typing ctrl-c or ctrl-z can
  * send signal to it. Besides, it has 3 built-in commands:
